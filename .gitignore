@@ -1,0 +1,7 @@
+*.pyc
+*.py~
+*.swp
+__pycache__/
+.DS_Store
+node_modules
+/sites/*
